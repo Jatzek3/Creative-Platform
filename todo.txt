@@ -1,0 +1,17 @@
+Naprawić zależności i zrobić żeby  można było pushować na Vercel
+Poczytać o CSS in JS - Styled Components
+Znaleźć odpowiednie style
+Napisać stronę tytułową
+Napisać mapę wpisów bez Dev Diaries
+Dodać Stronę kontaktową
+Napisać odpowiednie style w SCSS modules i SCSS
+
+Połączyc ze sobą gotowy Start i Dev Diaries
+
+Dodać możliwość logowania
+	-umieszczania komentarzy
+	-odpowiadania na komentarze
+
+
+
+10. Podłączyć Google analytics i search console
